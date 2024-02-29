@@ -61,6 +61,8 @@
     "wpackagist-plugin/elementor":"3.19.*",
     "custom/divi":"*",
     "divi/divi":"*",
+    "custom/bp_pages_template":"*",
+    "bp_pages_template/bp_pages_template":"*",
     "wpackagist-plugin/advanced-csv-importer":"0.1.6",
     "custom/analytics":"*",
     "wpackagist-plugin/wp-all-import":"3.7.3",
