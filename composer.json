@@ -62,6 +62,8 @@
     "custom/divi":"*",
     "divi/divi":"*",
     "custom/analytics":"*",
+    "custom/bp_pages_template":"*",
+    "bp_pages_template/bp_pages_template":"*",
     "wpackagist-plugin/wp-all-import":"3.7.3",
     "wpackagist-theme/hestia":"3.1.3"
   },
